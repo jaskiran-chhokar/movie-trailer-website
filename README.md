@@ -6,9 +6,9 @@ This Movie Trailer Website project consists of server-side code which stores a l
 
 The creation of this project was formulated using python. You can head over to this [Python Installation Link](https://docs.python.org/2/using/), in order to set up the latest version on your own system. 
 
-## Run This Webpage
+## Running This Webpage
 
-To serve this website in your browser type in
+To serve this website in your browser type this into your command line
 
   
   ``` 
@@ -16,7 +16,7 @@ To serve this website in your browser type in
   $ python entertainment_center.py
   
   ```
- Running this command will create your fresh_tomatoes.html file within the same directory. It will provide you with all of the necessary      styling to make your webpage look presentable. 
+ Running this command will create your fresh_tomatoes.html file within the same directory. It will also provide you with all of the necessary styling to make your webpage look presentable. 
  
  ## Modules 
  
