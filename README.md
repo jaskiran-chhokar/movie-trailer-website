@@ -26,7 +26,7 @@ To serve this website in your browser type in
  
   ```
  
-  1) __entertainment_center.py__ - Module which creates and calls all necessary objects 
+  1) __entertainment_center.py__ - Creates and calls all necessary objects 
   2) __media.py__ - Serves the purpose of defining each movie/data
   3) __fresh_tomatoes.py__ - Generate the HTML code required to run this project
   
